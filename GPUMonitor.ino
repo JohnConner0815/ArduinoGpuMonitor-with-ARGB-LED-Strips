@@ -155,20 +155,20 @@ void loop() {
 CRGB getLoadColor(float percent) {
   percent = constrain(percent, 0.0, 1.0);
   
-  if (percent <= 0.50) {
+  if (percent <= 0.60) {
     return CRGB(0, 255, 0); // Green
   } 
-  else if (percent <= 0.60) {
+  else if (percent <= 0.70) {
     // Green to Yellow gradient
-    float t = (percent - 0.50) / 0.10; 
+    float t = (percent - 0.60) / 0.10; 
     return CRGB((uint8_t)(255 * t), 255, 0);
   } 
-  else if (percent <= 0.75) {
+  else if (percent <= 0.80) {
     return CRGB(255, 255, 0); // Yellow
   } 
-  else if (percent <= 0.85) {
+  else if (percent <= 0.90) {
     // Yellow to Red gradient
-    float t = (percent - 0.75) / 0.10;
+    float t = (percent - 0.80) / 0.10;
     return CRGB(255, (uint8_t)(255 * (1.0 - t)), 0);
   } 
   else {
