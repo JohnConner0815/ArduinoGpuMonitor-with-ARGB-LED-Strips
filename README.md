@@ -10,7 +10,7 @@
  > - 1 White
  > - 2 Blue
  > - 3 Cyan
- > - 4 thermometer style with green up to 50%, then yellow at 75% and red up to 90% and higher
+ > - 4 thermometer style with green up to 50%, then yellow at 75% and red at 90% and higher
  > - 5 similar to 4 but all used LEDs lit up in the colour depending on the GPU-usage
  > - 6 all LEDs are off
 9. Select your brightness by pressing the Button connected to Pin 4
