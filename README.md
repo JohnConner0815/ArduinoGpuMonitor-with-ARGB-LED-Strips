@@ -7,11 +7,11 @@
 6. Select your Com-port, your GPU (if have more than one), refresh time (this affects the LED-strip and the response time of your buttons) and press connect
 7. Select the colour profile by pressing the Button which is connected to Pin 3
 8. The following colour profiles are available: 
- > 1 White
- > 2 Blue
- > 3 Cyan
- > 4 thermometer style with green up to 50%, then yellow at 75% and red up to 90% and higher
- > 5 similar to 4 but all used LEDs lit up in the colour depending on the GPU-usage
- > 6 all LEDs are off
+ > - 1 White
+ > - 2 Blue
+ > - 3 Cyan
+ > - 4 thermometer style with green up to 50%, then yellow at 75% and red up to 90% and higher
+ > - 5 similar to 4 but all used LEDs lit up in the colour depending on the GPU-usage
+ > - 6 all LEDs are off
 9. Select your brightness by pressing the Button connected to Pin 4
 10. Brightness adjustment is logarithmic; it is therefore more of a gamma correction, which is more easily perceived by the human eye.
