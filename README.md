@@ -1,4 +1,4 @@
-# Arduino-ARGB-GPU-Meter
+# Arduino-ARGB-GPU-Monitor
 ![](https://github.com/JohnConner0815/ArduinoGpuMonitor/blob/main/Chematic.png)
 1. Open GPUMonitor.ino and adjust the number of LEDs in line 10 below “// --- HARDWARE CONFIGURATION ---” depending on how many you want to control. The scaling is done automatically. Save this to your file.
 2. Upload GPUMonitor.ino to your board
