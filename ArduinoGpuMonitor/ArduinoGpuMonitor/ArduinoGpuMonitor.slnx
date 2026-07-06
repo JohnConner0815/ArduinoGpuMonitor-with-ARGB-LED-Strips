@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+    <BuildType Name="test" />
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="ArduinoGpuMonitor.csproj" Id="abc0c88d-c74b-4122-9fee-eae092212f86">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

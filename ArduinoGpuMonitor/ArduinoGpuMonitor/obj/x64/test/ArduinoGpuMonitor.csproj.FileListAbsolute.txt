@@ -1,0 +1,13 @@
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\bin\x64\test\ArduinoGpuMonitor.exe.config
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\bin\x64\test\ArduinoGpuMonitor.exe
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\bin\x64\test\LibreHardwareMonitorLib.dll
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\bin\x64\test\System.Memory.dll
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\bin\x64\test\System.Runtime.CompilerServices.Unsafe.dll
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\bin\x64\test\System.Numerics.Vectors.dll
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\bin\x64\test\System.Buffers.dll
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\x64\test\ArduinoGpuMonitor.csproj.AssemblyReference.cache
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\x64\test\ArduinoGpuMonitor.Properties.Resources.resources
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\x64\test\ArduinoGpuMonitor.csproj.GenerateResource.cache
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\x64\test\ArduinoGpuMonitor.csproj.CoreCompileInputs.cache
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\x64\test\ArduinoG.8CF7B4D3.Up2Date
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\x64\test\ArduinoGpuMonitor.exe

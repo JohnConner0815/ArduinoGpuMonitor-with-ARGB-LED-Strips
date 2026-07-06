@@ -1,0 +1,4 @@
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\Debug\ArduinoGpuMonitor.csproj.AssemblyReference.cache
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\Debug\ArduinoGpuMonitor.Properties.Resources.resources
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\Debug\ArduinoGpuMonitor.csproj.GenerateResource.cache
+E:\GPUMonitor\ArduinoGpuMonitor\ArduinoGpuMonitor\obj\Debug\ArduinoGpuMonitor.csproj.CoreCompileInputs.cache
