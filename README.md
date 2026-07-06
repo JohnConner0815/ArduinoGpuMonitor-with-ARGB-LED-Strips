@@ -1,5 +1,5 @@
 # Arduino-ARGB-GPU-Monitor
-This GPU meter displays GPU usage using an ARGB LED strip. It has several color profiles stored, and you can adjust the brightness. The most recently used settings are saved in the Arduino and loaded the next time it is restarted or the USB cable is reconnected.
+This GPU meter displays GPU usage using an ARGB LED strip (WS2812B). It has several color profiles stored, and you can adjust the brightness. The most recently used settings are saved in the Arduino and loaded the next time it is restarted or the USB cable is reconnected.
 
 ![](https://github.com/JohnConner0815/ArduinoGpuMonitor/blob/main/Chematic.png)
 1. Open GPUMonitor.ino and adjust the number of LEDs in line 10 below “// --- HARDWARE CONFIGURATION ---” depending on how many you want to control. The scaling is done automatically. Save this to your file.
