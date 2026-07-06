@@ -6,7 +6,6 @@ This GPU meter displays GPU usage using an ARGB LED strip. It has several color 
 2. Upload GPUMonitor.ino to your board
 4. You need the following files in the same folder: **ArduinoGpuMonitor.exe, System.Memory.dll, System.Numerics.Vectors.dll, System.Runtime.CompilerServices.Unsafe.dll, LibreHardwareMonitorLib.dll**
 5. Run ArduinoGpuMonitor.exe
-6. Select your Com-port, your GPU (if have more than one), refresh time (this affects the LED-strip and the response time of your buttons) and press connect
 7. Select the colour profile by pressing the Button which is connected to Pin 3
 8. The following colour profiles are available: 
  > - 1 White
